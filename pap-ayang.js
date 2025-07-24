@@ -1,0 +1,7 @@
+[
+  "https://files.cloudkuimages.guru/images/wYPhJKW0.jpg",
+  "https://files.cloudkuimages.guru/images/zlYLjcRQ.jpg",
+  "https://files.cloudkuimages.guru/images/M1GAYTcz.jpg",
+  "https://files.cloudkuimages.guru/images/CMNtEszL.jpg",
+  "https://files.cloudkuimages.guru/images/D1Z3UOJh.jpg"
+]
